@@ -1,0 +1,7 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+892,3,Kelly, Mr. James,male,34.5,0,0,330911,7.8292,,Q
+893,3,Wilkes, Mrs. James (Ellen Needs),female,47,1,0,363272,7,,S
+894,2,Myles, Mr. Thomas Francis,male,62,0,0,240276,9.6875,,Q
+895,3,Wirz, Mr. Albert,male,27,0,0,315154,8.6625,,S
+896,3,Costello, Mrs. (Helen Leech),female,22,0,0,2657,12.2875,,C
+897,1,Bonnell, Miss. Elizabeth,female,14,1,0,113783,30.0708,,S
